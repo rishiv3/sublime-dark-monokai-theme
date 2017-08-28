@@ -1,5 +1,7 @@
-# sublime-dark-monokai-theme
+# Sublime Dark Monokai Theme
 
+
+### Settings 
 ````JSON
 {
 	"always_show_minimap_viewport": true,
