@@ -1,5 +1,5 @@
 # Sublime Dark Monokai Theme
-
+For those who are using Material Dark theme and still wants to have monokai.
 
 ### Settings 
 ````JSON
