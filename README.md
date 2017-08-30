@@ -6,7 +6,7 @@ For those who are using Material Dark theme and still wants to have monokai.
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme", // put theme file in this dir
 	"font_face": "ubuntu mono",
 	"font_options":
 	[
