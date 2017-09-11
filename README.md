@@ -1,7 +1,7 @@
 # Sublime Dark Monokai Theme
 Only for those who are using Material Dark theme and still wants to have monokai.
 
-Download the "theme" file and put it in "Packages/User" directory.
+Download the "Monokai theme" file and put it in "Packages/User" directory.
 
 ## Settings 
 ```JavaScript
