@@ -9,12 +9,6 @@ Download the "Monokai theme" file and put it in "Packages/User" directory.
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
-	"font_face": "ubuntu mono",
-	"font_options":
-	[
-		"gray_antialias",
-		"subpixel_antialias"
-	],
 	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
