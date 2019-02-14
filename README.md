@@ -11,7 +11,8 @@ TODO: --
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
-	"font_size": 12,
+	"font_face": "INCONSOLATA",
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -37,4 +38,5 @@ TODO: --
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false
 }
+
 ```
