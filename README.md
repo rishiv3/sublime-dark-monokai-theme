@@ -289,7 +289,7 @@ TODO: --
 
 ````
 
-##VS Code
+## VS Code
 ````
 {
     "editor.fontFamily": "Hack, Inconsolata, 'Courier New', monospace",
