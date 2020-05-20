@@ -328,6 +328,7 @@ TODO: --
         "titleBar.inactiveBackground": "#fff",
         "titleBar.inactiveForeground": "#fff",
         "titleBar.border": "#6b6b6b",
+	"editorGroupHeader.tabsBackground": "#141313", // tabs dark background
     },
     "window.menuBarVisibility": "default",
     "workbench.statusBar.visible": true,
