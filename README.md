@@ -160,7 +160,7 @@ TODO: --
 ```
 
 
-#mac
+## MAC
 ````
 {
     "bold_folder_labels": true,
