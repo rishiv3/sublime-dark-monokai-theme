@@ -1,0 +1,98 @@
+{
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.colorTheme": "Monokai",
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 17,
+  "editor.dragAndDrop": false,
+  "editor.scrollBeyondLastLine": true,
+  "editor.tabSize": 4,
+  "emmet.triggerExpansionOnTab": true,
+  // "prettier.jsxSingleQuote": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "window.zoomLevel": 0,
+  "python.formatting.provider": "black",
+  "html.format.wrapLineLength": 0,
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "turboConsoleLog.quote": "'",
+  // "prettier.singleQuote": true,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveServer.settings.port": 8887,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "terminal.integrated.fontFamily": "Hack",
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.folders.theme": "specific",
+  "launch": {},
+  "workbench.colorCustomizations": {
+    "list.inactiveSelectionBackground": "#636566",
+    "sideBar.background": "#0d0d0e",
+    "sideBar.foreground": "#FFFFFF",
+    "sideBarTitle.foreground": "#eeeaea",
+    "editor.background": "#0b0b0b",
+    "editor.foreground": "#FFFFFF",
+    "sideBarSectionHeader.background": "#bebebe",
+    "sideBarSectionHeader.foreground": "#6b6b6b",
+    "tab.activeBackground": "#161515",
+    //"tab.unfocusedActiveForeground": "#c41616",
+    //"statusBar.background": "#003cff",
+    "scrollbarSlider.activeBackground": "#6b6b6b",
+    "scrollbarSlider.hoverBackground": "#6b6b6b",
+    "badge.background": "#04701c",
+    "activityBar.border": "#6b6b6b",
+    "activityBar.background": "#0d0d0e",
+    "menu.background": "#16161d",
+    "menu.selectionBackground": "#636566",
+    "menubar.selectionForeground": "#FFF",
+    "titleBar.activeBackground": "#0d0d0e",
+    "titleBar.activeForeground": "#fff",
+    //"titleBar.inactiveBackground": "#fff",
+    //"titleBar.inactiveForeground": "#fff",
+    "titleBar.border": "#6b6b6b",
+    "statusBar.background": "#102f97",
+    "statusBar.noFolderBackground": "#222225",
+    "editorGroup.dropBackground": "#303030",
+    "editorGroup.emptyBackground": "#6265f5",
+    "editorGroupHeader.tabsBackground": "#141313",
+    "statusBar.debuggingBackground": "#511f1f"
+  },
+  "window.menuBarVisibility": "default",
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": true,
+  "python.pythonPath": "C:\\cit\\python\\python.exe",
+  "editor.renameOnType": true,
+  "git.autofetch": true,
+  "search.searchOnType": false,
+  "debug.console.fontFamily": "Hack",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.formatOnSaveMode": "modifications",
+  "json.schemas": [
+
+  ],
+  "[python]": {
+    "editor.formatOnPaste": false
+  },
+  "python.formatting.autopep8Args": [
+    "--max-line-length",
+    "120",
+    "--experimental"
+  ],
+  "python.formatting.yapfArgs": [
+    "--style",
+    "{based_on_style: chromium, indent_width: 20}"
+  ],
+  "python.formatting.blackArgs": [
+    "--line-length",
+    "100"
+  ],
+  "editor.formatOnSave": true
+}
