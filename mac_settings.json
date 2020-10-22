@@ -1,0 +1,99 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontFamily": "Fira Code",
+    "python.jediEnabled": false,
+    "window.zoomLevel": 0,
+    "editor.fontSize": 18,
+    "workbench.colorTheme": "Monokai",
+    "terminal.integrated.fontSize": 16,
+    "editor.fontLigatures": true,
+    "window.closeWhenEmpty": false,
+    "editor.emptySelectionClipboard": false,
+    "editor.detectIndentation": false,
+    "editor.dragAndDrop": false,
+    "editor.renderWhitespace": "none",
+    "files.insertFinalNewline": true,
+    "editor.selectionHighlight": false,
+    "window.openFilesInNewWindow": "off",
+    "workbench.editor.enablePreview": false,
+    "editor.scrollBeyondLastLine": true,
+    "editor.mouseWheelScrollSensitivity": 0.5,
+    "window.title": "${activeEditorShort}${separator}${rootName}",
+    "files.trimTrailingWhitespace": true,
+    "editor.wordWrap": "off",
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "liveServer.settings.port": 5000,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+            "source.fixAll": true
+        },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "launch": {
+
+
+
+
+
+    },
+    "workbench.colorCustomizations": {
+        "list.inactiveSelectionBackground": "#636566",
+        "sideBar.background": "#1b2022",
+        "sideBar.foreground": "#FFFFFF",
+        "sideBarTitle.foreground": "#eeeaea",
+        "editor.background": "#1b2022",
+        "editor.foreground": "#FFFFFF",
+        "sideBarSectionHeader.background": "#2c3237",
+        "sideBarSectionHeader.foreground": "#2c3237",
+        "tab.activeBackground": "#2c3237",
+        "tab.inactiveBackground": "#1b2022",
+        "tab.unfocusedActiveForeground": "#ff001e",
+        "statusBar.background": "#102F97",
+        "statusBar.foreground": "#fff",
+        "scrollbarSlider.activeBackground": "#2c3237",
+        "scrollbarSlider.hoverBackground": "#2c3237",
+        "badge.background": "#1b2022",
+        "activityBar.border": "#1b2022",
+        "activityBar.background": "#1b2022",
+        // "menu.background": "#16161d",
+        // "menu.selectionBackground": "#636566",
+        // "menubar.selectionForeground": "#FFF",
+        "titleBar.activeBackground": "#1b2022",
+        "titleBar.activeForeground": "#fff",
+        "titleBar.inactiveBackground": "#1b2022",
+        "titleBar.inactiveForeground": "#fff",
+        "titleBar.border": "#1b2022",
+        "editorGroupHeader.tabsBackground": "#141313", // tabs dark background
+    },
+    "window.menuBarVisibility": "default",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "python.languageServer": "Pylance",
+    "git.confirmSync": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "scm.alwaysShowRepositories": true,
+    //"editor.defaultFormatter": "vscode.configuration-editing",
+    "json.schemas": [
+
+    ],
+    "notebook.kernelProviderAssociations": [
+
+    ],
+    "beautify.config": "",
+    "html.format.enable": false,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnSave": true
+}
