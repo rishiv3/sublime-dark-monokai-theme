@@ -37,40 +37,33 @@
             "source.fixAll": true
         },
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "launch": {
-
-
-
-
-
-    },
     "workbench.colorCustomizations": {
         "list.inactiveSelectionBackground": "#636566",
-        "sideBar.background": "#1b2022",
+        "sideBar.background": "#141414",
         "sideBar.foreground": "#FFFFFF",
         "sideBarTitle.foreground": "#eeeaea",
-        "editor.background": "#1b2022",
+        "editor.background": "#141414",
         "editor.foreground": "#FFFFFF",
         "sideBarSectionHeader.background": "#2c3237",
-        "sideBarSectionHeader.foreground": "#2c3237",
+        "sideBarSectionHeader.foreground": "#eeeaea",
         "tab.activeBackground": "#2c3237",
-        "tab.inactiveBackground": "#1b2022",
-        "tab.unfocusedActiveForeground": "#ff001e",
+        "tab.inactiveBackground": "#141414",
+        "tab.unfocusedActiveForeground": "#eeeaea",
         "statusBar.background": "#102F97",
         "statusBar.foreground": "#fff",
         "scrollbarSlider.activeBackground": "#2c3237",
         "scrollbarSlider.hoverBackground": "#2c3237",
-        "badge.background": "#1b2022",
-        "activityBar.border": "#1b2022",
-        "activityBar.background": "#1b2022",
+        "badge.background": "#141414",
+        "activityBar.border": "#141414",
+        "activityBar.background": "#141414",
         // "menu.background": "#16161d",
         // "menu.selectionBackground": "#636566",
         // "menubar.selectionForeground": "#FFF",
-        "titleBar.activeBackground": "#1b2022",
+        "titleBar.activeBackground": "#141414",
         "titleBar.activeForeground": "#fff",
-        "titleBar.inactiveBackground": "#1b2022",
+        "titleBar.inactiveBackground": "#141414",
         "titleBar.inactiveForeground": "#fff",
-        "titleBar.border": "#1b2022",
+        "titleBar.border": "#141414",
         "editorGroupHeader.tabsBackground": "#141313", // tabs dark background
     },
     "window.menuBarVisibility": "default",
