@@ -163,46 +163,126 @@ TODO: --
 ## VS Code
 ````
 {
-    "editor.fontFamily": "Hack, Inconsolata, 'Courier New', monospace",
-    "editor.fontSize": 18,
-    "editor.wordWrap": "on",
-    "editor.tabSize": 2,
-    "workbench.colorTheme": "Monokai",
-    "terminal.integrated.fontFamily": "hack",
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
-    "workbench.iconTheme": "material-icon-theme",
-    "launch": {
-    
-    },
-    "workbench.colorCustomizations": {
-        "list.inactiveSelectionBackground": "#636566",
-        "sideBar.background": "#0d0d0e",
-        "sideBar.foreground": "#FFFFFF",
-        "sideBarTitle.foreground": "#eeeaea",
-        "editor.background": "#0b0b0b",
-        "editor.foreground": "#FFFFFF",
-        "sideBarSectionHeader.background": "#bebebe",
-        "sideBarSectionHeader.foreground": "#6b6b6b",
-        "tab.activeBackground": "#161515",
-        "tab.unfocusedActiveForeground": "#c41616",
-        "statusBar.background": "#102F97",
-        "scrollbarSlider.activeBackground": "#6b6b6b",
-        "scrollbarSlider.hoverBackground": "#6b6b6b",
-        "badge.background": "#04701c",
-        "activityBar.border": "#6b6b6b",
-        "activityBar.background":"#0d0d0e",
-        "menu.background":"#16161d",
-        "menu.selectionBackground":"#636566",
-        "menubar.selectionForeground": "#FFF",
-        "titleBar.activeBackground": "#0d0d0e",
-        "titleBar.activeForeground": "#fff",
-        "titleBar.inactiveBackground": "#fff",
-        "titleBar.inactiveForeground": "#fff",
-        "titleBar.border": "#6b6b6b",
-	"editorGroupHeader.tabsBackground": "#141313", // tabs dark background
-    },
-    "window.menuBarVisibility": "default",
-    "workbench.statusBar.visible": true,
-    "workbench.activityBar.visible": true
+  "editor.minimap.enabled": false,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.fontFamily": "Fira Code",
+  "python.jediEnabled": false,
+  "editor.fontSize": 18,
+  "workbench.colorTheme": "Monokai",
+  "terminal.integrated.fontSize": 16,
+  "editor.fontLigatures": true,
+  "window.closeWhenEmpty": false,
+  "editor.emptySelectionClipboard": false,
+  "editor.detectIndentation": false,
+  "editor.dragAndDrop": false,
+  "editor.renderWhitespace": "none",
+  "files.insertFinalNewline": true,
+  "editor.selectionHighlight": false,
+  "window.openFilesInNewWindow": "off",
+  "workbench.editor.enablePreview": false,
+  "editor.scrollBeyondLastLine": true,
+  "editor.mouseWheelScrollSensitivity": 0.5,
+  "window.title": "${activeEditorShort}${separator}${rootName}",
+  "files.trimTrailingWhitespace": true,
+  "editor.wordWrap": "off",
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "liveServer.settings.port": 5000,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorCustomizations": {
+    "list.inactiveSelectionBackground": "#636566",
+    "sideBar.background": "#141414",
+    "sideBar.foreground": "#FFFFFF",
+    "sideBarTitle.foreground": "#eeeaea",
+    "editor.background": "#141414",
+    "editor.foreground": "#FFFFFF",
+    "sideBarSectionHeader.background": "#2c3237",
+    "sideBarSectionHeader.foreground": "#eeeaea",
+    "tab.activeBackground": "#2c3237",
+    "tab.inactiveBackground": "#141414",
+    "tab.unfocusedActiveForeground": "#eeeaea",
+    "scrollbarSlider.activeBackground": "#2c3237",
+    "scrollbarSlider.hoverBackground": "#2c3237",
+    "badge.background": "#141414",
+    "activityBar.border": "#141414",
+    "activityBar.background": "#141414",
+    // "menu.background": "#16161d",
+    // "menu.selectionBackground": "#636566",
+    // "menubar.selectionForeground": "#FFF",
+    "titleBar.activeBackground": "#141414",
+    "titleBar.activeForeground": "#fff",
+    "titleBar.inactiveBackground": "#141414",
+    "titleBar.inactiveForeground": "#fff",
+    "titleBar.border": "#141414",
+    "editorGroupHeader.tabsBackground": "#141313", // tabs dark background
+    "statusBar.background" : "#1A1A1A",
+    "statusBar.noFolderBackground" : "#212121",
+    "statusBar.debuggingBackground": "#263238",
+  },
+  "window.menuBarVisibility": "default",
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "python.languageServer": "Pylance",
+  "git.confirmSync": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "scm.alwaysShowRepositories": true,
+  //"editor.defaultFormatter": "vscode.configuration-editing",
+  "json.schemas": [],
+  "notebook.kernelProviderAssociations": [],
+  "beautify.config": "",
+  "html.format.enable": false,
+  "editor.formatOnSaveMode": "modifications",
+  "editor.tabSize": 2,
+  "files.associations": {
+    "*.mdx": "javascriptreact"
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "python.pythonPath": "/usr/local/bin/python3",
+  "editor.codeLensFontFamily": "Fira Code",
+  "editor.inlineHints.fontFamily": "Product Sans",
+  "workbench.productIconTheme": "fluent-icons",
+  "appService.showSavePrompt": false,
+  "showOutput": "never",
+  "debug.internalConsoleOptions": "neverOpen",
+  // Output panel
+  "[Log]": {
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.sideBar.location": "right",
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "python.defaultInterpreterPath": "/usr/local/bin/python3",
+"editor.bracketPairColorization.enabled": true,
+"editor.inlineSuggest.enabled": true,
+"github.copilot.enable": {
+  "*": false,
+  "yaml": false,
+  "plaintext": false,
+  "markdown": false
+}
 }
 ````
